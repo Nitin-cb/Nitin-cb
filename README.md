@@ -1,5 +1,12 @@
 # 💫 About Me:
-Hello! I'm Nitin C B, a passionate web developer from Kerala, India. I recently completed my B.Sc. in Computer Science and have a strong foundation in both frontend and backend technologies.
+I’m a Full Stack Developer specializing in JavaScript, with a passion for building user-friendly and scalable web applications. My expertise spans frontend technologies like React and Tailwind CSS and backend solutions using Node.js and MongoDB. I enjoy exploring new tools and frameworks to deliver impactful solutions.
+
+Recently, I completed a static website project for a supermarket using React as part of my freelancing work. Alongside this, I’ve started contributing to the backend of an MVP food app, where I focus on implementing scalable architectures and efficient data management. Currently, I’m also working on a full-stack hotel booking application using Next.js and Node.js, handling both backend development and feature integrations.
+
+To enhance my skills, I’m deepening my understanding of backend technologies and honing my expertise in React through small sample projects. This hands-on approach allows me to learn and experiment with new concepts while improving my problem-solving abilities.
+
+I take pride in writing clean, maintainable code and continuously upskilling to stay aligned with the latest trends in web development. My goal is to contribute effectively to projects that solve real-world problems, all while enjoying the process of learning and creating.
+
 
 
 ## 🌐 Socials:
